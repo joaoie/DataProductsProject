@@ -13,11 +13,11 @@ Background/Motivation
 ========================================================
 These are the files produced during a homework assignment of Coursera’s MOOC Developing Data Products from Johns Hopkins University, where students could pick any dataset, and should produce a web app hosted on SaaS platform from RStudio shinyapss.io.
 
-The data set that I choose was the default r package dataset called "mtcars", which presents a short (32 entries) dataset with information on several cars.
+The data set that I choose was from the r package dataset called "mtcars", which presents a short (32 entries) dataset with information on several cars.
 
 The materials can be found in:
 Web app: https://joaoie.shinyapps.io/DataProductProject
-GitHub Repo: https://github.com/joaoie/DataProductProject
+GitHub Repo: https://github.com/joaoie/DataProductsProject
 
 
 Code for Plot
