@@ -10,9 +10,9 @@ The files of the applications are:
 - ui.R
 - server.R
 
-The application is accesible in: https://github.com/joaoie/DataProductsProject
+The application is accesible at: https://joaoie.shinyapps.io/DataProductProject
 
-After a presentation of the application is disigned using RStudio Presenter. The presentation can be visualized in:
+A presentation of the application was also designed using RStudio Presenter. The presentation can be visualized at:
 
-https://joaoie.shinyapps.io/DataProductProject
+http://rpubs.com/Joaoie/DataProductsProject
 
